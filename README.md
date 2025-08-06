@@ -6,18 +6,6 @@ This repository is a test/demo/project repository managed using **[Sublime Merge
 
 This project demonstrates how to manage Git repositories using **Sublime Merge** with best practices. It can be used to test Git operations or serve as a template for new projects.
 
-## 📂 Repository Structure
-
-.
-├── README.md # Project overview
-├── .gitignore # Ignored files and directories
-├── main.py # Sample code (if applicable)
-└── ...
-
-markdown
-Copy
-Edit
-
 ## 🔧 Prerequisites
 
 - [Git](https://git-scm.com/) installed
